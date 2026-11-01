@@ -12,7 +12,7 @@
     "express",
     "backend-lab"
   ],
-  "author": "Sai Preneeth",
+  "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {

@@ -4,7 +4,7 @@ Repository containing laboratory exercises and implementations for Backend Devel
 
 ## Student Details
 - **Name:** Sai Preneeth
-- **Registration Number:** 252U1RXXXX
+- **Registration Number:** 252U1R8019
 - **Section:** CSE(QE)-2A
 
 ## Structure
