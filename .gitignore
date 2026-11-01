@@ -1,0 +1,7 @@
+# Root gitignore for Course Repository
+node_modules/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
