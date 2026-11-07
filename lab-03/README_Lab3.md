@@ -5,7 +5,7 @@
 **Stack:** Node.js, Express.js, SQLite (`sqlite` + `sqlite3`)
 
 ## Deployment link:
-https://lab3-backend.onrender.com/
+https://express-labs-3.onrender.com/
 
 
 ## Run locally

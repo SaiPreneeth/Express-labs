@@ -239,6 +239,9 @@ The screenshots of the executed tests are stored in `screenshots/`:
 
 ---
 
+## Deployment
 
-
+- **Platform:** Render
+- **GitHub Repository:** [https://github.com/SaiPreneeth/Express-labs](https://github.com/SaiPreneeth/Express-labs)
+- **Live URL:** [https://express-labs-3.onrender.com/](https://express-labs-3.onrender.com/)
 
